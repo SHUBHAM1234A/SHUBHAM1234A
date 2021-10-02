@@ -1,3 +1,17 @@
-- 👋 Hi, I’m @SHUBHAM1234A
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
+![Hi](https://c.tenor.com/9hJIlhfjpn0AAAAC/hi-hey.gif)
+
+### Hello i am Shubham Kumar Pandey
+I know only Javascript, HTML and CSS
+
+```JS
+const Shubham = {
+    Age: 14,
+    Description: "I like to code what I love to make",
+    FavouriteLanguage: "Javascript",
+    Repositories: {
+       Created: 59
+    },
+    Birthday: "October 1, 2007",
+    FavouriteThings: ["GitHub", "VS Code", "Games", "Discord", "My Laptop"]
+};
+```
