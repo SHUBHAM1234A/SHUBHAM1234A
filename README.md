@@ -5,13 +5,13 @@ I know only Javascript, HTML and CSS
 
 ```JS
 const Shubham = {
-    Age: 14,
+    Age: 15,
+    Birthday: "October 1, 2007",
     Description: "I like to code what I love to make",
     FavouriteLanguage: "Javascript",
     Repositories: {
        Created: 59
     },
-    Birthday: "October 1, 2007",
     FavouriteThings: ["GitHub", "VS Code", "Games", "Discord", "My Laptop"]
 };
 ```
