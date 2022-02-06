@@ -1,7 +1,7 @@
 ![Hello](https://c.tenor.com/-HBmXyghT-oAAAAi/hello-hi.gif)
 
 ### Hello i am Shubham Kumar Pandey
-I know Javascript, HTML, Python(beginner) and CSS
+I know Javascript, HTML, Python and CSS
 
 ```JS
 const Shubham = {
@@ -10,7 +10,7 @@ const Shubham = {
     Description: "I like to code what I love to make",
     FavouriteLanguage: "Javascript",
     Repositories: {
-       Created: 69
+       Created: 71
     },
     FavouriteThings: ["GitHub", "VS Code", "Games", "Discord", "My Laptop"]
 };
