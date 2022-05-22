@@ -10,7 +10,7 @@ const Shubham = {
     Description: "I like to code what I love to make",
     FavouriteLanguage: "Javascript",
     Repositories: {
-       Created: 73
+       Created: 93
     },
     FavouriteThings: ["GitHub", "VS Code", "Games", "Discord", "My Laptop"]
 };
